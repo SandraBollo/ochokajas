@@ -1,0 +1,23 @@
+div{ 
+	border: purple 8px groove;
+	background-color: pink;
+	width:100px;
+    height: 100px;
+   	margin: 10px;
+     
+}
+.uno{
+	display: inline-block;
+	}
+
+.dos{ 
+	display: inline-block;
+}
+.marco{
+       border: black inset 3px; 
+	   width: 450px;
+	   height: 130px;
+	   margin-top: 20px;
+}
+body{
+	background-image:url(https://secure.static.tumblr.com/7659c24b0d36ae239eea33fcc0ea347c/lkyzbeg/W5Wn7wbvf/tumblr_static_juniper_loops_portada.jpg);}
